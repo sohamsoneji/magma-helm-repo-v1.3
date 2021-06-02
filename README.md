@@ -1,1 +1,0 @@
-# magma-helm-repo-v1.3
